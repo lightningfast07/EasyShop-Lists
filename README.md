@@ -1,4 +1,4 @@
-# EasyShop Lists
+# ShopSync
 
 Description:
 ShopSync is a user-friendly and efficient shopping list app built using the Flutter framework. It provides a seamless shopping experience by allowing users to create and manage their shopping lists with ease. The app integrates Firebase as the backend technology, ensuring real-time synchronization of data across devices, making shopping collaborative and convenient for families and groups.
